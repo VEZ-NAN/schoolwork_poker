@@ -162,10 +162,6 @@ public class Player
                 numbers[i]=t;
             }
         }
-/*        for(int i=0;i<5;++i)
-        {
-            System.out.println(numbers[i]);
-        }*/
         for(int i=0;i<4;++i)
         {
             int j=i+1;
